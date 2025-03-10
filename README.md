@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] Customize the toolbar and icons
 
 ## Video Walkthrough
-<img src= '' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src= 'https://github.com/Moze-Code/and102-lab6-starter/blob/unit-lab-6/ArticleSearch%203.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with **ScreenPal**
 
